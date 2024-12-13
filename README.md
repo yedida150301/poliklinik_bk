@@ -1,5 +1,5 @@
 # Regulation
-<h1>Yedida Farel Terang Immanuel</h1>
+<h1>Poliklinik Remedium Salvus</h1>
 <h1>db: poli_bk, import 'poli_bk.sql'</h1>
 <h2>Sample of Login Credentials</h2>
 <h3>DATABASE</h3>
